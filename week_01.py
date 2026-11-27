@@ -1,6 +1,6 @@
 
 
-player_name = input("What is your name? ")
+player_name = input("rayan ")
  
 player_gold = 100
 
